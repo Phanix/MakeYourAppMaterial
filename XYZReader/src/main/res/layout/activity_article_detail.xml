@@ -16,7 +16,6 @@
         android:layout_width="match_parent"
         android:layout_height="?actionBarSize">
 
-
         <ImageButton
             android:id="@+id/action_up"
             android:layout_width="56dp"
@@ -46,8 +45,6 @@
         </android.support.design.widget.TabLayout>
 
     </FrameLayout>
-
-
 
 </FrameLayout>
 
